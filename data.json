@@ -209,37 +209,31 @@
   "header_menu": [
     {
       "link": "/play/",
-      "label": "Promotions",
+      "label": "Bonusy",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Live Casino",
+      "label": "Płatności",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Slot Games",
+      "label": "Jak się zarejstrować",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Table games",
+      "label": "Zakłady",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Crash Games",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Sports",
+      "label": "Aplikacja",
       "submenu": [],
       "openInNewTab": false
     }
@@ -247,49 +241,43 @@
   "footer_menu": [
     {
       "link": "/play/",
-      "label": "Responsible Gaming",
+      "label": "O Nas",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Terms and Conditions",
+      "label": "Centrum Pomocy",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Privacy Policy",
+      "label": "Partnerzy",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Bonus Rules",
+      "label": "Odpowiedzialna Gra",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Payments",
+      "label": "Polityka Plików Cookie",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Support",
+      "label": "Polityka Prywatności",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "FAQ",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Contact",
+      "label": "Warunki i Zasady",
       "submenu": [],
       "openInNewTab": false
     }
@@ -302,28 +290,18 @@
     },
     {
       "link": "https://www.gamcare.org.uk/",
-      "image": "/uploads/1bfe3b454cda5ccf482e868ba2dfdc15.webp",
-      "image_alt": "gamcare"
-    },
-    {
-      "link": "/play/",
       "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
       "image_alt": "visa"
     },
     {
       "link": "/play/",
-      "image": "/uploads/acd94c7d64c4572fa58fc8f828f74bd8.svg",
-      "image_alt": "googlepay"
+      "image": "/uploads/97884414b5bebb9e6c0331960aa5c71c.webp",
+      "image_alt": "mastercard"
     },
     {
       "link": "/play/",
-      "image": "/uploads/292521eb44c05ec0fdfefa6dbaa3dd0c.svg",
-      "image_alt": "apple pay"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/2767b5abec611eeaecc8af4ad65c2a43.svg",
-      "image_alt": "btc"
+      "image": "/uploads/726d0d161f25ded497bd904b95c8dafc.svg",
+      "image_alt": "bank transfer"
     }
   ],
   "Slots": [
@@ -409,9 +387,9 @@
       "question": "Ile trwa wypłata środków z Atefia Casino?"
     }
   ],
-  "_generated_at": "2026-09-30T12:52:19.574Z",
+  "_generated_at": "2026-09-30T13:01:04.233Z",
   "_version": "1.0.0",
   "content_alt": "atefia bonus",
-  "_last_deploy": "2026-09-30T12:52:20.177Z",
-  "_deploy_trigger": "59y6ryl"
+  "_last_deploy": "2026-09-30T13:01:04.804Z",
+  "_deploy_trigger": "0m1jgjg"
 }
