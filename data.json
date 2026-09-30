@@ -189,10 +189,10 @@
   "main_background": "#040503",
   "secondary_background": "#151419",
   "button_background": "#493263",
-  "button_text_color": "#efeae3",
+  "button_text_color": "#ffffff",
   "text_color": "#ffffff",
   "color_highlight_text": "#efeae3",
-  "color_main_btn_text": "#efeae3",
+  "color_main_btn_text": "#ffffff",
   "cta_background": "#493263",
   "logo": {
     "url": "/uploads/312ce3b446e6b23bbf48e3de719259b2.webp",
@@ -387,9 +387,9 @@
       "question": "Ile trwa wypłata środków z Atefia Casino?"
     }
   ],
-  "_generated_at": "2026-09-30T14:37:51.680Z",
+  "_generated_at": "2026-09-30T15:27:40.466Z",
   "_version": "1.0.0",
   "content_alt": "atefia bonus",
-  "_last_deploy": "2026-09-30T14:37:52.273Z",
-  "_deploy_trigger": "esn3sn"
+  "_last_deploy": "2026-09-30T15:27:41.043Z",
+  "_deploy_trigger": "2lce0f"
 }
