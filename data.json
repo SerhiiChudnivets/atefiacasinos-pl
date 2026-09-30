@@ -186,7 +186,7 @@
   "home_name": "Atefia Casino",
   "subdomains": null,
   "accent_color": "#e8e8e8",
-  "main_background": "#2f2d39",
+  "main_background": "#2500e0",
   "secondary_background": "#040503",
   "button_background": "#493263",
   "button_text_color": "#efeae3",
@@ -387,9 +387,9 @@
       "question": "Ile trwa wypłata środków z Atefia Casino?"
     }
   ],
-  "_generated_at": "2026-09-30T13:03:07.853Z",
+  "_generated_at": "2026-09-30T13:29:28.477Z",
   "_version": "1.0.0",
   "content_alt": "atefia bonus",
-  "_last_deploy": "2026-09-30T13:03:08.462Z",
-  "_deploy_trigger": "yj2dqq"
+  "_last_deploy": "2026-09-30T13:29:29.172Z",
+  "_deploy_trigger": "9fl5d"
 }
